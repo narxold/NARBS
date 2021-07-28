@@ -3,6 +3,7 @@
 ,xf86-video-amdgpu,"is an AMD video driver."
 ,xf86-video-ati,"is an AMD video driver."
 ,xf86-video-vesa,"is a fallback video driver."
+,xdg-user-dirs,"creates home directories like Downloads and Documents."
 ,neofetch,"displays system information."
 ,firefox,"is a web browser."
 ,pulseaudio,"is the audio system."
